@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/gcr.io/coredns:v1.2.6
+FROM gcr.io/google_containers/gcr.io/coredns:1.2.6
 MAINTAINER mritd <mritd@mritd.me>
