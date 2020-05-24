@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/etcd:3.3.10
+FROM k8s.gcr.io/etcd-arm64:3.3.10
 MAINTAINER mritd <mritd@mritd.me>
