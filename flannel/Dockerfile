@@ -1,4 +1,4 @@
-FROM quay.io/coreos/flannel:v0.12.0-arm
+FROM quay.io/coreos/flannel:v0.12.0-arm64
 MAINTAINER Mosaicwang <mosaicwang@gmail.com>
 
 
