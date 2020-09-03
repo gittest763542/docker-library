@@ -1,2 +1,2 @@
-FROM coredns/coredns:coredns-arm64
+FROM k8s.gcr.io/coredns:1.2.6
 MAINTAINER mritd <mritd@mritd.me>
